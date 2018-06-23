@@ -1,0 +1,15 @@
+{
+  "name": "playgrapher",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.42",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.10",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
